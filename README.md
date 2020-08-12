@@ -4,7 +4,7 @@
 
 * [Android - Java]
   * [Notes App](www.github.com/RodeoGithub/Note-Keeper)
-  ![Notes App Image 1](/images/notes-app/image-1.jpg) ![Notes App Image 2](/images/notesapp/image-1.png)
+  ![Notes App Image 1](/Images/Notes-App/image-1.jpg) ![Notes App Image 2](/images/notesapp/image-1.png)
 * [iOS]
 
 
