@@ -1,4 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+
+#### This is a walktrough of apps I have made!
+
+* [Android - Java]
+  * [Notes App](www.github.com/RodeoGithub/Note-Keeper)
+  ![Notes App Image 1](/images/notesapp/image-1.png) ![Notes App Image 2](/images/notesapp/image-1.png)
+* [iOS]
+
+
 
 <!--
 **RodeoGithub/RodeoGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
