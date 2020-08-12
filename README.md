@@ -3,7 +3,7 @@
 #### This is a walktrough of apps I have made!
 
 * [Android - Java]
-  * [Notes App](/Note-Keeper)
+  * [Notes App](https://www.github.com/RodeoGithub/Note-Keeper)
 
   ![Notes App Image 1](/Images/Notes-App/image-1(1).png) ![Notes App Image 2](/Images/Notes-App/image-2.png)
 * [iOS - Swift]
