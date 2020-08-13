@@ -13,8 +13,8 @@
 
 * [iOS - Swift]
   * [Wheater App](https://www.github.com/RodeoGithub/Note-Keeper) **_[Working on]_**
-  
-  ![Wheater App Image 1](/Images/Notes-App-iOS/example-app-1(Small).jpeg) 
+
+  ![Wheater App Image 1](/Images/Notes-App-iOS/ios-library.png) 
   ![Wheater App Image 2](/Images/Notes-App-iOS/ios-library.png)
 
 
