@@ -3,11 +3,18 @@
 #### This is a walktrough of apps I have made!
 
 * [Android - Java]
-  * [Notes App](https://www.github.com/RodeoGithub/Note-Keeper)
+  * [Notes App](https://www.github.com/RodeoGithub/Note-Keeper) **[Finished]**
 
-  ![Notes App Image 1](/Images/Notes-App/image-1.png) ![Notes App Image 2](/Images/Notes-App/image-2.png)
+  ![Notes App Image 1](/Images/Notes-App/image-2.png) ![Notes App Image 2](/Images/Notes-App-Android/image-2.png)
+  
+  * [Wheater App](https://www.github.com/RodeoGithub/Note-Keeper) **_[Working on]_**
+
+  ![Wheater App Image 1](/Images/Notes-App/image-2.png) ![Wheater App Image 2](/Images/Notes-App-Android/image-2.png)
+
 * [iOS - Swift]
+  * [Wheater App](https://www.github.com/RodeoGithub/Note-Keeper) **_[Working on]_**
 
+  ![Wheater App Image 1](/Images/Notes-App/image-2.png) ![Wheater App Image 2](/Images/Notes-App-iOS/ios-home-1.png)
 
 
 <!--
