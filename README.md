@@ -9,12 +9,14 @@
   
   * [Wheater App](https://www.github.com/RodeoGithub/Note-Keeper) **_[Working on]_**
 
-  ![Wheater App Image 1](/Images/Notes-App/image-2.png) ![Wheater App Image 2](/Images/Notes-App-Android/image-2.png)
+  ![Wheater App Image 1](/Images/Notes-App-Android/image-2.png) ![Wheater App Image 2](/Images/Notes-App-Android/image-2.png)
 
 * [iOS - Swift]
   * [Wheater App](https://www.github.com/RodeoGithub/Note-Keeper) **_[Working on]_**
 
-  ![Wheater App Image 1](/Images/Notes-App-iOS/example-app-1 (Small).jpeg) ![Wheater App Image 2](/Images/Notes-App-iOS/ios-home-1 (Small).jpeg)
+  ![Wheater App Image 1](/Images/Notes-App-iOS/example-app-1(Small).jpeg) 
+  ![Wheater App Image 2](/Images/Notes-App-iOS/ios-home-1(Small).jpeg)
+  ![Wheater App Image 3](/Images/Notes-App-iOS/ios-home-1(Custom).jpeg)
 
 
 <!--
