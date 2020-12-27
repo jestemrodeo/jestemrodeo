@@ -9,10 +9,11 @@
 
 <img src="/Images/Clima-iOS/current_location_resistencia.png" alt="Resistencia chaco weather" width="30%" height="30%"> <img src="/Images/Clima-iOS/manual_search_moscow.png" alt="Searching Moscow weather" width="30%" height="30%"> <img src="/Images/Clima-iOS/current_weather_moscow.png" alt="Current weather in Moscow" width="30%" height="30%">
 
-<!--
-  ![Wheater App Image 1](/Images/Clima-iOS/current_location_resistencia.png =100x20) 
-  ![Wheater App Image 2](/Images/Clima-iOS/current_weather_moscow.png =100x20)
--->
+
+  * [BMI Calculator App](https://www.github.com/RodeoGithub/BMI-Calculator-iOS-App) **_[Finished]_**
+
+<img src="/Images/Bmi-Calculator-iOS/bmi_calculator_main_screen.png" alt="-" width="30%" height="30%"> <img src="/Images/Bmi-Calculator-iOS/bmi_calculator_result.png" alt="Searching Moscow weather" width="30%" height="30%">
+
 
 * [Android - Java]
   * [Notes App](https://www.github.com/RodeoGithub/Note-Keeper) **[Finished]**
