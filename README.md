@@ -6,8 +6,8 @@
 * [iOS - Swift]
   * [Wheater App](https://www.github.com/RodeoGithub/Clima-iOS-App) **_[Working on]_**
 
-  ![Wheater App Image 1](/Images/Clima-iOS/current_location_resistencia.png) 
-  ![Wheater App Image 2](/Images/Notes-App-iOS/current_weather_moscow.png)
+  ![Wheater App Image 1](/Images/Clima-iOS/current_location_resistencia.png = 100x20) 
+  ![Wheater App Image 2](/Images/Clima-iOS/current_weather_moscow.png = 100x20)
 
 
 * [Android - Java]
