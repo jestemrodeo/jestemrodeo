@@ -4,10 +4,9 @@
 
 
 * [iOS - Swift]
-  * [Wheater App](https://www.github.com/RodeoGithub/Clima-iOS-App) **_[Working on]_**
+  * [Wheater App](https://www.github.com/RodeoGithub/Clima-iOS-App) **_[Finished]_**
 
 <img src="/Images/Clima-iOS/current_location_resistencia.png" alt="Weather_image" width="30%" height="30%">
-
 
 <!--
   ![Wheater App Image 1](/Images/Clima-iOS/current_location_resistencia.png =100x20) 
