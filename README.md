@@ -7,14 +7,8 @@
   * [Wheater App](https://www.github.com/RodeoGithub/Clima-iOS-App) **_[Finished]_**
 
 
-<img src="/Images/Clima-iOS/current_location_resistencia.png" alt="Weather_image" width="30%" height="30%"> <img src="/Images/Clima-iOS/current_location_resistencia.png" alt="Weather_image" width="30%" height="30%"> <img src="/Images/Clima-iOS/current_location_resistencia.png" alt="Weather_image" width="30%" height="30%">
-<table style="width:100%">
-  <tr>
-    <td align="center">img1</td>
-    <td align="center">img2</td>
-    <td align="center">img3</td>
-  </tr>
-</table>
+<img src="/Images/Clima-iOS/current_location_resistencia.png" alt="Resistencia chaco weather" width="30%" height="30%"> <img src="/Images/Clima-iOS/manual_search_moscow.png" alt="Searching Moscow weather" width="30%" height="30%"> <img src="/Images/Clima-iOS/current_weather_moscow.png" alt="Current weather in Moscow" width="30%" height="30%">
+
 <!--
   ![Wheater App Image 1](/Images/Clima-iOS/current_location_resistencia.png =100x20) 
   ![Wheater App Image 2](/Images/Clima-iOS/current_weather_moscow.png =100x20)
