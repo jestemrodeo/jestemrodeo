@@ -2,6 +2,14 @@
 
 #### This is a walktrough of apps I have made!
 
+
+* [iOS - Swift]
+  * [Wheater App](https://www.github.com/RodeoGithub/Clima-iOS-App) **_[Working on]_**
+
+  ![Wheater App Image 1](/Images/Clima-iOS/current_location_resistencia.png) 
+  ![Wheater App Image 2](/Images/Notes-App-iOS/current_weather_moscow.png)
+
+
 * [Android - Java]
   * [Notes App](https://www.github.com/RodeoGithub/Note-Keeper) **[Finished]**
 
@@ -10,12 +18,6 @@
   * [Wheater App](https://www.github.com/RodeoGithub/Note-Keeper) **_[Working on]_**
 
   ![Wheater App Image 1](/Images/Notes-App-Android/image-2.png) ![Wheater App Image 2](/Images/Notes-App-Android/image-2.png)
-
-* [iOS - Swift]
-  * [Wheater App](https://www.github.com/RodeoGithub/Note-Keeper) **_[Working on]_**
-
-  ![Wheater App Image 1](/Images/Notes-App-iOS/ios-library.png) 
-  ![Wheater App Image 2](/Images/Notes-App-iOS/ios-library.png)
 
 
 <!--
