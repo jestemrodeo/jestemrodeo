@@ -14,7 +14,7 @@
 
 <img src="/Images/Bmi-Calculator-iOS/bmi_calculator_main_screen.png" alt="-" width="30%" height="30%"> <img src="/Images/Bmi-Calculator-iOS/bmi_calculator_result.png" alt="Searching Moscow weather" width="30%" height="30%">
 
-
+<!--
 * [Android - Java]
   * [Notes App](https://www.github.com/RodeoGithub/Note-Keeper) **[Finished]**
 
@@ -24,8 +24,6 @@
 
   ![Wheater App Image 1](/Images/Notes-App-Android/image-2.png) ![Wheater App Image 2](/Images/Notes-App-Android/image-2.png)
 
-
-<!--
 **RodeoGithub/RodeoGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
