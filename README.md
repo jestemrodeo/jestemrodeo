@@ -22,6 +22,9 @@
 
 <!--
 
+<img src="/Images/Bmi-Calculator-iOS/bmi_calculator_main_screen.png" alt="-" width="30%" height="30%"> <img src="/Images/Bmi-Calculator-iOS/bmi_calculator_result.png" alt="Searching Moscow weather" width="30%" height="30%">
+
+<!--
 * [Android - Java]
   * [Notes App](https://www.github.com/RodeoGithub/Note-Keeper) **[Finished]**
 
