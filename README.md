@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### This is a walktrough of apps I have made!
+#### This is a walktrough of some apps I have made!
 
 
 * [iOS - Swift]
@@ -23,6 +23,9 @@
 <!--
 
 <img src="/Images/Bmi-Calculator-iOS/bmi_calculator_main_screen.png" alt="-" width="30%" height="30%"> <img src="/Images/Bmi-Calculator-iOS/bmi_calculator_result.png" alt="Searching Moscow weather" width="30%" height="30%">
+
+- 🔭 I’m currently working on an app that let you look at your stats in Legends of Runeterra featuring the Riot Games API.
+
 
 <!--
 * [Android - Java]
