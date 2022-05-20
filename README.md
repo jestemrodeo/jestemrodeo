@@ -9,7 +9,7 @@
   * [Wheater App](https://www.github.com/RodeoGithub/Clima-iOS-App) **_[Finished]_**
 
 <p align="center">
-  <img src="/Images/Clima-iOS/current_location_resistencia.png" alt="Resistencia chaco weather" width="30%" height="30%">
+  <img src="/Images/Clima-iOS/lima_dark_mode.png" alt="Lima weather in dark mode" width="30%" height="30%">
   <img src="/Images/Clima-iOS/manual_search_moscow.png" alt="Searching Moscow weather" width="30%" height="30%"> 
   <img src="/Images/Clima-iOS/current_weather_moscow.png" alt="Current weather in Moscow" width="30%" height="30%">
 </p>
@@ -29,21 +29,7 @@
 
 <img src="/Images/Bmi-Calculator-iOS/bmi_calculator_main_screen.png" alt="-" width="30%" height="30%"> <img src="/Images/Bmi-Calculator-iOS/bmi_calculator_result.png" alt="Searching Moscow weather" width="30%" height="30%">
 
-
-
-
 <!--
-* [Android - Java]
-  * [Notes App](https://www.github.com/RodeoGithub/Note-Keeper) **[Finished]**
-
-  ![Notes App Image 1](/Images/Notes-App-Android/image-2.png) ![Notes App Image 2](/Images/Notes-App-Android/image-2.png)
-  
-  * [Wheater App](https://www.github.com/RodeoGithub/Note-Keeper) **_[Working on]_**
-
-  ![Wheater App Image 1](/Images/Notes-App-Android/image-2.png) ![Wheater App Image 2](/Images/Notes-App-Android/image-2.png)
-
-**RodeoGithub/RodeoGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
