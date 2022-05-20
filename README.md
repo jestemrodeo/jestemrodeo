@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hi! My Name is Rodrigo 
 
+- 🔭 I’m currently working on a native iOS app that let you look at your stats in Legends of Runeterra featuring the Riot Games API
+
+- 💬 I focused the last 2 years on working with Apple technologies such as Swift, SwiftUI UIKit and common libraries like Realm, CoreData, CLLocation , Firebase, etc.
 #### This is a walktrough of some apps I have made!
-
 
 * [iOS - Swift]
   * [Wheater App](https://www.github.com/RodeoGithub/Clima-iOS-App) **_[Finished]_**
@@ -20,11 +22,14 @@
   <img src="/Images/Bmi-Calculator-iOS/bmi_calculator_result_overweight.png" alt="Overweight BMI" width="30%" height="30%">
 </p>
 
+
+- 📫 If you want to reach me send me an email to maidanarodrigo.dev@gmail.com
+
 <!--
 
 <img src="/Images/Bmi-Calculator-iOS/bmi_calculator_main_screen.png" alt="-" width="30%" height="30%"> <img src="/Images/Bmi-Calculator-iOS/bmi_calculator_result.png" alt="Searching Moscow weather" width="30%" height="30%">
 
-- 🔭 I’m currently working on an app that let you look at your stats in Legends of Runeterra featuring the Riot Games API.
+
 
 
 <!--
@@ -46,7 +51,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
