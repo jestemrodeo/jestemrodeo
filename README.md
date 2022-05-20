@@ -6,6 +6,12 @@
 #### This is a walktrough of some apps I have made!
 
 * [iOS - Swift]
+  * [Fit App](https://github.com/RodeoGithub/Fit-App) **_[Worked on UI as a Freelance Project]_**
+  
+  * [Figma Prototype](https://www.figma.com/proto/6cltCTV290NzS2Wrsqjr3f/Fit-App-(Copy)?node-id=33%3A47&starting-point-node-id=14%3A1&scaling=scale-down)
+
+
+* [iOS - Swift]
   * [Wheater App](https://www.github.com/RodeoGithub/Clima-iOS-App) **_[Finished]_**
 
 <p align="center">
