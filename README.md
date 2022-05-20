@@ -7,8 +7,8 @@
 
 * [iOS - Swift]
   * [Fit App](https://github.com/RodeoGithub/Fit-App) **_[Worked on UI as a Freelance Project]_**
-  
-  * [Figma Prototype](https://www.figma.com/proto/6cltCTV290NzS2Wrsqjr3f/Fit-App-(Copy)?node-id=33%3A47&starting-point-node-id=14%3A1&scaling=scale-down)
+
+  * [Figma Prototype](https://www.figma.com/proto/6cltCTV290NzS2Wrsqjr3f/Fit-App-(Copy)?node-id=14%3A1&starting-point-node-id=14%3A1&scaling=scale-down)
 
 
 * [iOS - Swift]
