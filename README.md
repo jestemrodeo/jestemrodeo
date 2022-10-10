@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on a native iOS app that let you look at your stats in Legends of Runeterra featuring the Riot Games API
 
 - 💬 I focused the last 2 years on working with Apple technologies such as Swift, SwiftUI UIKit and common libraries like Realm, CoreData, CLLocation , Firebase, etc.
-#### This is a walktrough of some apps I have made!
+#### This is a walktrough of some apps I've made!
 
 * [iOS - Swift]
   * [Fit App](https://github.com/RodeoGithub/Fit-App) **_[Worked on UI as a Freelance Project]_**
