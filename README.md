@@ -8,8 +8,6 @@
 * [iOS - Swift]
   * [Fit App](https://github.com/RodeoGithub/Fit-App) **_[Worked on UI as a Freelance Project]_**
 
-  * [Figma Prototype](https://www.figma.com/proto/6cltCTV290NzS2Wrsqjr3f/Fit-App-(Copy)?node-id=14%3A1&starting-point-node-id=14%3A1&scaling=scale-down)
-
 <p align="center">
   <img src="/Images/UFit-iOS/ufit1.png" alt="UFit App Project" width="30%" height="30%">
   <img src="/Images/UFit-iOS/ufit2.png" alt="UFit App Project" width="30%" height="30%">
