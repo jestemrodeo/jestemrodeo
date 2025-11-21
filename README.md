@@ -1,8 +1,8 @@
 ## Hi! My Name is Rodrigo 
 
-- 🔭 I’m currently working on a native iOS app that let you look at your stats in Legends of Runeterra featuring the Riot Games API
+- 🔭 I’m currently working on a native iOS app that let you look at your stats in Riftbound featuring the Riot Games API
 
-- 💬 I focused the last 2 years on working with Apple technologies such as Swift, SwiftUI UIKit and common libraries like Realm, CoreData, CLLocation , Firebase, etc.
+- 💬 I currently work at Telecom SA as an iOS Developer for the Entertainment product **Flow**
 #### This is a walktrough of some apps I've made!
 
 * [iOS - Swift]
